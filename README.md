@@ -14,3 +14,8 @@ but be aware that I will not assume any liability for anything. If you use a
 component library of some guy on the internet for a critical application without
 checking and there is a mistake somewhere in the library and things go wrong in
 your design it might just be your fault.
+
+## Known issues
+
+ - Some SMD pads miss the solder paste layer pads. Please be extra-careful when
+   ordering a SMT stencil!
