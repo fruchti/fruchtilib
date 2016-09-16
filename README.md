@@ -15,6 +15,10 @@ component library of some guy on the internet for a critical application without
 checking and there is a mistake somewhere in the library and things go wrong in
 your design it might just be your fault.
 
+However, if a commit changes the structure of the library, renumber pads or do
+anything which might break your projects, I will explicitly mark it and
+elaborate the changes I made.
+
 ## Known issues
 
  - Some SMD pads miss the solder paste layer pads. Please be extra-careful when
