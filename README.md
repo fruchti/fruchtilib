@@ -21,5 +21,5 @@ elaborate the changes I made.
 
 ## Known issues
 
- - Some SMD pads miss the solder paste layer pads. Please be extra-careful when
-   ordering a SMT stencil!
+ - Some SMD pads miss the solder paste layer pads (although I think I fixed most
+   of them by now). Please be extra-careful when ordering a SMT stencil!
