@@ -1,3 +1,7 @@
+# This project is no longer maintained.
+
+As I mainly work with Horizon now, this library will no longer receive updates.
+
 # fruchtilib
 
 This is my KiCAD component library, which I use exclusively for all my projects.
